@@ -2,8 +2,6 @@
 IU University of Applied Science (Educational Project- Database of Airbnb)
 
 
-# Airbnb_DB
-
 A professionally modeled relational database system inspired by core Airbnb platform functionality. This project demonstrates production-level schema design, relational integrity, data seeding, and query structuring for a modern accommodation marketplace.
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-blue.svg)](https://www.mysql.com/)
