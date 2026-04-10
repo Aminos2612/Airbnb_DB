@@ -8,6 +8,11 @@ A professionally modeled relational database system inspired by core Airbnb plat
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+# Design
+<img width="718" height="610" alt="image" src="https://github.com/user-attachments/assets/8ec89866-1b0a-4ca4-9376-a664d3bb397d" />
+
+
+
 ---
 
 ## 📋 Table of Contents
