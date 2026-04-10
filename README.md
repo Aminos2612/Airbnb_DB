@@ -9,7 +9,7 @@ A professionally modeled relational database system inspired by core Airbnb plat
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 # Design
-<img width="718" height="610" alt="image" src="https://github.com/user-attachments/assets/8ec89866-1b0a-4ca4-9376-a664d3bb397d" />
+<img width="1275" height="750" alt="image" src="https://github.com/user-attachments/assets/85154590-7309-4208-9ac3-3ba103a78ab3" />
 
 
 
